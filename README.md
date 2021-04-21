@@ -1,21 +1,15 @@
 <p>
 👋 Hi, I’m Arun KC
 
-</p>
-<p align="right">
-fig here
-</p>
 
-<p>
- about here
-</p>
-<img width="460" height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right">
 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arun-kc&count_private=true&show_icons=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=DEG,141313,232526" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-kc&theme=black-ice" />
 </p>
+
+<img width="460" height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right">
 
 <!---
 Arun-kc/Arun-kc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
