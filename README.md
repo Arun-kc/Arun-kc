@@ -2,6 +2,8 @@
 👋 Hi, I’m Arun KC
 
 
+<img width="460" height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right">
+
 
 
 <p align="center">
@@ -9,7 +11,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-kc&theme=black-ice" />
 </p>
 
-<img width="460" height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right">
+
 
 <!---
 Arun-kc/Arun-kc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
