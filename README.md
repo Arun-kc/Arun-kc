@@ -2,7 +2,7 @@
 👋 Hi, I’m Arun
 
 
-<img width="460" height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right">
+<img width="460" height="300" src="./assets/giphy.gif" align="right">
 
 ---
 
