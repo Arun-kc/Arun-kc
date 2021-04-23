@@ -4,7 +4,7 @@
 <img width="460" height="300" src="./assets/giphy.gif" align="right">
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I'm working on it ✍️\
+💡 &nbsp;I'm still working on it ✍️
 
 
 ---
