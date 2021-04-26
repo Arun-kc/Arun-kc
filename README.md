@@ -8,14 +8,9 @@
 ### 👨🏻‍💻 &nbsp;About Me :sunglasses:
 <br>
 
-<<<<<<< HEAD
 👀 &nbsp;I'm interested in decentralized systems and full stack development \
 🌱 &nbsp;I'm currently learning blockchain concepts and development \
 💞️ &nbsp;I'm looking to collaborate on opensource projects 
-=======
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I'm still working on it ✍️
->>>>>>> 92bb6b22ea7883e2fd8e2432b23fd96356b7ad46
 
 <br>
 
