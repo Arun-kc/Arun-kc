@@ -26,7 +26,7 @@
 
 <div>
 
-<img height="180em" alt="coding"  src="./assets/giphy.gif" align="center">
+<img align="middle" height="180em" alt="coding"  src="./assets/giphy.gif">
 
 <!-- ### 🛠 &nbsp;Tech Stack
 blah \
