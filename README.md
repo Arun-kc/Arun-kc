@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm Arun
+## <img height="25em" src="assets\wave.gif"> Hi, I'm Arun. Thanks for visiting! <img height="50em" src="assets\octodex.gif">
 <hr>
 <div>
 <br>
