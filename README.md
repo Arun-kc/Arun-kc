@@ -25,8 +25,9 @@
 <hr>
 
 <div>
-
-<img align="middle" height="180em" alt="coding"  src="./assets/giphy.gif">
+<p align="center">
+  <img height="180em" alt="coding"  src="./assets/giphy.gif">
+</p>
 
 <!-- ### 🛠 &nbsp;Tech Stack
 blah \
