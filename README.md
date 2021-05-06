@@ -10,7 +10,8 @@
 
 👀 &nbsp;I'm interested in decentralized systems and full stack development \
 🌱 &nbsp;I'm currently learning blockchain concepts and development \
-💞️ &nbsp;I'm looking to collaborate on opensource projects 
+💞️ &nbsp;I'm looking to collaborate on opensource projects \
+✨ &nbsp;Exploring opensource!! 🏄🧗
 
 <br>
 
