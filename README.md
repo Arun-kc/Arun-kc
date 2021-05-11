@@ -32,8 +32,7 @@
 
 <!-- ### 🛠 &nbsp;Tech Stack
 blah \
-
-blah -->
+ -->
 
 
 </div>
