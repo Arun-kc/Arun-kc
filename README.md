@@ -52,12 +52,32 @@ blah \
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-kc&theme=black-ice" />
 </p>
 
-<!-- ### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<img width="48%" src="assets/contact.png" />
+</p>
 
-
-</p> -->
+<p align="center">
+<a href="arunkc91@gmail.com">
+<img alt="Gmail" width="5%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/gmail.png" />
+</a>
+<a href="https://dev.to/arunkc">
+<img alt="Dev.to" width="5%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/reference/dev_to.svg" />
+</a>
+<a href="https://twitter.com/arunkc97">
+<img alt="Twitter" width="5%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/reference/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/arun-kc/">
+<img alt="LinkedIn" width="5%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/reference/linkedin.svg" />
+</a>
+<!-- <a href="https://www.w3schools.com">
+<img width="10%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/telegram.png" />
+</a>
+<a href="https://www.w3schools.com">
+<img width="10%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/reference/discord.svg" />
+</a> -->
+</p>
 
 <!---
 Arun-kc/Arun-kc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
