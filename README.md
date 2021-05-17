@@ -60,13 +60,13 @@ blah \
 
 <p align="center">
 <a href="https://dev.to/arunkc">
-<img alt="Dev.to" width="5%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/reference/dev_to.svg" />
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="arunkc's DEV Community Profile" height="30" width="30">
 </a>
 <a href="https://twitter.com/arunkc97">
-<img alt="Twitter" width="5%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/reference/twitter.svg" />
+<img alt="Twitter" height="30" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/reference/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/arun-kc/">
-<img alt="LinkedIn" width="5%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/reference/linkedin.svg" />
+<img alt="LinkedIn" height="30" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/reference/linkedin.svg" />
 </a>
 <!-- <a href="https://www.w3schools.com">
 <img width="10%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/telegram.png" />
