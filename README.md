@@ -59,9 +59,6 @@ blah \
 </p>
 
 <p align="center">
-<a href="arunkc91@gmail.com">
-<img alt="Gmail" width="5%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/gmail.png" />
-</a>
 <a href="https://dev.to/arunkc">
 <img alt="Dev.to" width="5%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/reference/dev_to.svg" />
 </a>
