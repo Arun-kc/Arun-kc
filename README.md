@@ -52,6 +52,10 @@ blah \
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-kc&theme=black-ice" />
 </p>
 
+### 📚&nbsp;Blogs 🤓
+[Hashnode](https://arunkc.hashnode.dev/) |
+[Dev](https://dev.to/arunkc)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
