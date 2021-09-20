@@ -8,9 +8,8 @@
 ### 👨🏻‍💻 &nbsp;About Me :sunglasses:
 <br>
 
-🔭 &nbsp;I’m currently working on [novicebot](https://github.com/Arun-kc/novicebot) 😄  \
+🔭 &nbsp;I’m currently working on improving my problem solving skills 😄  \
 👀 &nbsp;I'm interested in decentralized systems and full stack development \
-🌱 &nbsp;I'm currently learning blockchain concepts and development \
 💞️ &nbsp;I'm looking to collaborate on opensource projects \
 ✨ &nbsp;Exploring opensource!! 🏄🧗 \
 📬 &nbsp;How to reach me: [Let’s get in touch!](https://www.linkedin.com/in/arun-kc/) \
