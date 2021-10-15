@@ -57,9 +57,9 @@ blah \
 
 ### 📕&nbsp;Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first Hacktoberfest !!✨](https://dev.to/arunkc/my-first-hacktoberfest--5a43)
 - [Get started with Apache Airflow](https://dev.to/arunkc/get-started-with-apache-airflow-1218)
 - [My experience in building a Discord bot!!](https://dev.to/arunkc/my-experience-in-building-a-discord-bot-271h)
-- [Solve "MongooseError: Operation 'x.find()` buffering timed out after 10000ms"](https://dev.to/arunkc/solve-mongooseerror-operation-x-find-buffering-timed-out-after-10000ms-3d3j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🤝🏻 &nbsp;Connect with Me
