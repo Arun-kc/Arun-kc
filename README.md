@@ -4,6 +4,7 @@
 <div>
 <br>
 <img height="180em" alt="coding"  src="./assets/quotes.png" align="right">
+ 
 
 ### 👨🏻‍💻 &nbsp;About Me :sunglasses:
 <br>
@@ -47,7 +48,7 @@ blah \
 <br>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arun-kc&count_private=true&show_icons=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=DEG,141313,232526" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arun-kc&count_private=true&show_icons=true&theme=github_dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-kc&theme=black-ice" />
 </p>
 
@@ -61,6 +62,10 @@ blah \
 - [Get started with Apache Airflow](https://dev.to/arunkc/get-started-with-apache-airflow-1218)
 - [My experience in building a Discord bot!!](https://dev.to/arunkc/my-experience-in-building-a-discord-bot-271h)
 <!-- BLOG-POST-LIST:END -->
+
+### ⚡&nbsp;Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -78,12 +83,6 @@ blah \
 <a href="https://www.linkedin.com/in/arun-kc/">
 <img alt="LinkedIn" height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/reference/linkedin.svg" />
 </a>
-<!-- <a href="https://www.w3schools.com">
-<img width="10%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/telegram.png" />
-</a>
-<a href="https://www.w3schools.com">
-<img width="10%" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/reference/discord.svg" />
-</a> -->
 </p>
 
 <!---
