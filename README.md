@@ -14,7 +14,7 @@
 💞️ &nbsp;I'm looking to collaborate on opensource projects \
 ✨ &nbsp;Exploring opensource!! 🏄🧗 \
 📬 &nbsp;How to reach me: [Let’s get in touch!](https://www.linkedin.com/in/arun-kc/) \
-⚡ &nbsp;Fun fact: I forgot to eat when im immeresed in coding 😅 
+⚡ &nbsp;Currently learning data engineering concepts 
 
 
 
