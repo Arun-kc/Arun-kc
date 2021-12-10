@@ -90,11 +90,11 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4267](https://github.com/apache/hudi/issues/4267) in [apache/hudi](https://github.com/apache/hudi)
-2. 🗣 Commented on [#4266](https://github.com/apache/hudi/issues/4266) in [apache/hudi](https://github.com/apache/hudi)
-3. 💪 Opened PR [#4266](https://github.com/apache/hudi/pull/4266) in [apache/hudi](https://github.com/apache/hudi)
-4. 🗣 Commented on [#1486](https://github.com/bridgecrewio/checkov/issues/1486) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-5. 🗣 Commented on [#18641](https://github.com/apache/airflow/issues/18641) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#4267](https://github.com/apache/hudi/issues/4267) in [apache/hudi](https://github.com/apache/hudi)
+2. ❗️ Opened issue [#4267](https://github.com/apache/hudi/issues/4267) in [apache/hudi](https://github.com/apache/hudi)
+3. 🗣 Commented on [#4266](https://github.com/apache/hudi/issues/4266) in [apache/hudi](https://github.com/apache/hudi)
+4. 💪 Opened PR [#4266](https://github.com/apache/hudi/pull/4266) in [apache/hudi](https://github.com/apache/hudi)
+5. 🗣 Commented on [#1486](https://github.com/bridgecrewio/checkov/issues/1486) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
 <!--END_SECTION:activity-->
 
 ### 🤝🏻 &nbsp;Connect with Me
