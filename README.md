@@ -91,10 +91,10 @@ blah \
 ### ⚡&nbsp;Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/kuwala-io/kuwala/issues/2) in [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala)
-2. 🗣 Commented on [#4267](https://github.com/apache/hudi/issues/4267) in [apache/hudi](https://github.com/apache/hudi)
+2. 🗣 Commented on [#2](https://github.com/kuwala-io/kuwala/issues/2) in [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala)
 3. 🗣 Commented on [#4267](https://github.com/apache/hudi/issues/4267) in [apache/hudi](https://github.com/apache/hudi)
 4. 🗣 Commented on [#4267](https://github.com/apache/hudi/issues/4267) in [apache/hudi](https://github.com/apache/hudi)
-5. ❗️ Opened issue [#4267](https://github.com/apache/hudi/issues/4267) in [apache/hudi](https://github.com/apache/hudi)
+5. 🗣 Commented on [#4267](https://github.com/apache/hudi/issues/4267) in [apache/hudi](https://github.com/apache/hudi)
 <!--END_SECTION:activity-->
 
 ### 🤝🏻 &nbsp;Connect with Me
