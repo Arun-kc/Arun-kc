@@ -90,11 +90,11 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#282](https://github.com/jupyter-naas/awesome-notebooks/issues/282) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
-2. 💪 Opened PR [#295](https://github.com/jupyter-naas/awesome-notebooks/pull/295) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
-3. 🗣 Commented on [#276](https://github.com/jupyter-naas/awesome-notebooks/issues/276) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
-4. ❗️ Closed issue [#4267](https://github.com/apache/hudi/issues/4267) in [apache/hudi](https://github.com/apache/hudi)
-5. 🗣 Commented on [#4267](https://github.com/apache/hudi/issues/4267) in [apache/hudi](https://github.com/apache/hudi)
+1. 🗣 Commented on [#295](https://github.com/jupyter-naas/awesome-notebooks/issues/295) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
+2. 🗣 Commented on [#282](https://github.com/jupyter-naas/awesome-notebooks/issues/282) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
+3. 💪 Opened PR [#295](https://github.com/jupyter-naas/awesome-notebooks/pull/295) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
+4. 🗣 Commented on [#276](https://github.com/jupyter-naas/awesome-notebooks/issues/276) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
+5. ❗️ Closed issue [#4267](https://github.com/apache/hudi/issues/4267) in [apache/hudi](https://github.com/apache/hudi)
 <!--END_SECTION:activity-->
 
 ### 🤝🏻 &nbsp;Connect with Me
