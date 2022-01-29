@@ -90,11 +90,11 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Arun-kc/atom/pull/1) in [Arun-kc/atom](https://github.com/Arun-kc/atom)
-2. 💪 Opened PR [#1](https://github.com/Arun-kc/atom/pull/1) in [Arun-kc/atom](https://github.com/Arun-kc/atom)
-3. 🗣 Commented on [#295](https://github.com/jupyter-naas/awesome-notebooks/issues/295) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
-4. 🗣 Commented on [#282](https://github.com/jupyter-naas/awesome-notebooks/issues/282) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
-5. 💪 Opened PR [#295](https://github.com/jupyter-naas/awesome-notebooks/pull/295) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
+1. 💪 Opened PR [#2](https://github.com/Arun-kc/atom/pull/2) in [Arun-kc/atom](https://github.com/Arun-kc/atom)
+2. 🎉 Merged PR [#1](https://github.com/Arun-kc/atom/pull/1) in [Arun-kc/atom](https://github.com/Arun-kc/atom)
+3. 💪 Opened PR [#1](https://github.com/Arun-kc/atom/pull/1) in [Arun-kc/atom](https://github.com/Arun-kc/atom)
+4. 🗣 Commented on [#295](https://github.com/jupyter-naas/awesome-notebooks/issues/295) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
+5. 🗣 Commented on [#282](https://github.com/jupyter-naas/awesome-notebooks/issues/282) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
 <!--END_SECTION:activity-->
 
 ### 🤝🏻 &nbsp;Connect with Me
