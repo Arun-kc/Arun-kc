@@ -83,9 +83,9 @@ blah \
 
 ### 📕&nbsp;Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [IPFS -  The superpower of Web 3.0](https://dev.to/arunkc/ipfs-the-superpower-of-web-30-5911)
 - [6 Useful Python Tricks](https://dev.to/arunkc/6-useful-python-tricks-502o)
 - [My first Hacktoberfest !!✨](https://dev.to/arunkc/my-first-hacktoberfest--5a43)
-- [Get started with Apache Airflow](https://dev.to/arunkc/get-started-with-apache-airflow-1218)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡&nbsp;Recent Activity
