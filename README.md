@@ -9,12 +9,12 @@
 ### 👨🏻‍💻 &nbsp;About Me :sunglasses:
 <br>
 
-🔭 &nbsp;I’m currently working on improving my problem solving skills 😄  \
+🔭 &nbsp;I’m currently working on my development and technical writing skills 😄  \
 👀 &nbsp;I'm interested in decentralized systems and full stack development \
 💞️ &nbsp;I'm looking to collaborate on opensource projects \
 ✨ &nbsp;Exploring opensource!! 🏄🧗 \
 📬 &nbsp;How to reach me: [Let’s get in touch!](https://www.linkedin.com/in/arun-kc/) \
-⚡ &nbsp;Currently learning data engineering concepts 
+⚡ &nbsp;Currently brushing up web2 contents and preparing to dive into web3 
 
 
 
