@@ -83,9 +83,9 @@ blah \
 
 ### 📕&nbsp;Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Brief Introduction to Blockchain](https://dev.to/arunkc/a-brief-introduction-to-blockchain-4h37)
 - [Evolution of Web](https://dev.to/arunkc/evolution-of-web-ja6)
 - [IPFS -  The superpower of Web 3.0](https://dev.to/arunkc/ipfs-the-superpower-of-web-30-5911)
-- [6 Useful Python Tricks](https://dev.to/arunkc/6-useful-python-tricks-502o)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡&nbsp;Recent Activity
