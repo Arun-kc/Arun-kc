@@ -83,9 +83,9 @@ blah \
 
 ### 📕&nbsp;Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where To Learn Web3 ? - A Complete Guide](https://arunkc.hashnode.dev/where-to-learn-web3-a-complete-guide)
 - [A Brief Introduction to Blockchain](https://arunkc.hashnode.dev/a-brief-introduction-to-blockchain)
 - [Evolution of Web](https://arunkc.hashnode.dev/evolution-of-web)
-- [IPFS -  The superpower of Web 3.0](https://arunkc.hashnode.dev/ipfs-the-superpower-of-web-3)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡&nbsp;Recent Activity
