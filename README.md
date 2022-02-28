@@ -90,11 +90,11 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Arun-kc/quizzical/pull/1) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
-2. 💪 Opened PR [#1](https://github.com/Arun-kc/quizzical/pull/1) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
-3. 💪 Opened PR [#1](https://github.com/itsanishjain/tailwindcss-web3-components/pull/1) in [itsanishjain/tailwindcss-web3-components](https://github.com/itsanishjain/tailwindcss-web3-components)
-4. 🗣 Commented on [#1674](https://github.com/doczjs/docz/issues/1674) in [doczjs/docz](https://github.com/doczjs/docz)
-5. 💪 Opened PR [#1](https://github.com/ServicesStrategy/cryptolancerwebsite/pull/1) in [ServicesStrategy/cryptolancerwebsite](https://github.com/ServicesStrategy/cryptolancerwebsite)
+1. 🎉 Merged PR [#2](https://github.com/Arun-kc/quizzical/pull/2) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
+2. 💪 Opened PR [#2](https://github.com/Arun-kc/quizzical/pull/2) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
+3. 🎉 Merged PR [#1](https://github.com/Arun-kc/quizzical/pull/1) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
+4. 💪 Opened PR [#1](https://github.com/Arun-kc/quizzical/pull/1) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
+5. 💪 Opened PR [#1](https://github.com/itsanishjain/tailwindcss-web3-components/pull/1) in [itsanishjain/tailwindcss-web3-components](https://github.com/itsanishjain/tailwindcss-web3-components)
 <!--END_SECTION:activity-->
 
 ### 🤝🏻 &nbsp;Connect with Me
