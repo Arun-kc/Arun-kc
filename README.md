@@ -90,11 +90,11 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Arun-kc/quizzical/pull/2) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
-2. 💪 Opened PR [#2](https://github.com/Arun-kc/quizzical/pull/2) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
-3. 🎉 Merged PR [#1](https://github.com/Arun-kc/quizzical/pull/1) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
-4. 💪 Opened PR [#1](https://github.com/Arun-kc/quizzical/pull/1) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
-5. 💪 Opened PR [#1](https://github.com/itsanishjain/tailwindcss-web3-components/pull/1) in [itsanishjain/tailwindcss-web3-components](https://github.com/itsanishjain/tailwindcss-web3-components)
+1. 💪 Opened PR [#1](https://github.com/bytehash-tech/web3conHack/pull/1) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
+2. 🎉 Merged PR [#2](https://github.com/Arun-kc/quizzical/pull/2) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
+3. 💪 Opened PR [#2](https://github.com/Arun-kc/quizzical/pull/2) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
+4. 🎉 Merged PR [#1](https://github.com/Arun-kc/quizzical/pull/1) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
+5. 💪 Opened PR [#1](https://github.com/Arun-kc/quizzical/pull/1) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
 <!--END_SECTION:activity-->
 
 ### 🤝🏻 &nbsp;Connect with Me
