@@ -90,11 +90,11 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/bytehash-tech/web3conHack/pull/4) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
-2. 💪 Opened PR [#3](https://github.com/bytehash-tech/web3conHack/pull/3) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
-3. 💪 Opened PR [#2](https://github.com/bytehash-tech/web3conHack/pull/2) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
-4. 💪 Opened PR [#1](https://github.com/bytehash-tech/web3conHack/pull/1) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
-5. 🎉 Merged PR [#2](https://github.com/Arun-kc/quizzical/pull/2) in [Arun-kc/quizzical](https://github.com/Arun-kc/quizzical)
+1. 💪 Opened PR [#5](https://github.com/bytehash-tech/web3conHack/pull/5) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
+2. 💪 Opened PR [#4](https://github.com/bytehash-tech/web3conHack/pull/4) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
+3. 💪 Opened PR [#3](https://github.com/bytehash-tech/web3conHack/pull/3) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
+4. 💪 Opened PR [#2](https://github.com/bytehash-tech/web3conHack/pull/2) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
+5. 💪 Opened PR [#1](https://github.com/bytehash-tech/web3conHack/pull/1) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
 <!--END_SECTION:activity-->
 
 ### 🤝🏻 &nbsp;Connect with Me
