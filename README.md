@@ -89,14 +89,9 @@ blah \
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡&nbsp;Recent Activity
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/bytehash-tech/web3conHack/pull/9) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
-2. 💪 Opened PR [#8](https://github.com/bytehash-tech/web3conHack/pull/8) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
-3. 💪 Opened PR [#7](https://github.com/bytehash-tech/web3conHack/pull/7) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
-4. 💪 Opened PR [#6](https://github.com/bytehash-tech/web3conHack/pull/6) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
-5. 💪 Opened PR [#5](https://github.com/bytehash-tech/web3conHack/pull/5) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
+<!--RECENT_ACTIVITY:last_update-->
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
