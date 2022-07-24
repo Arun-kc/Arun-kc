@@ -9,7 +9,7 @@
 ### 👨🏻‍💻 &nbsp;About Me :sunglasses:
 <br>
 
-🔭 &nbsp;I’m currently working on improving my problem solving skills 😄  \
+🔭 &nbsp;I’m currently working on my development and technical writing skills 😄  \
 👀 &nbsp;I'm interested in decentralized systems and full stack development \
 💞️ &nbsp;I'm looking to collaborate on opensource projects \
 ✨ &nbsp;Exploring opensource!! 🏄🧗 \
@@ -83,18 +83,18 @@ blah \
 
 ### 📕&nbsp;Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My first Hacktoberfest !!✨](https://dev.to/arunkc/my-first-hacktoberfest--5a43)
-- [Get started with Apache Airflow](https://dev.to/arunkc/get-started-with-apache-airflow-1218)
-- [My experience in building a Discord bot!!](https://dev.to/arunkc/my-experience-in-building-a-discord-bot-271h)
+- [All You Need To Know About Crypto Wallets](https://arunkc.hashnode.dev/all-you-need-to-know-about-crypto-wallets)
+- [Where To Learn Web3 ? - A Complete Guide](https://arunkc.hashnode.dev/where-to-learn-web3-a-complete-guide)
+- [A Brief Introduction to Blockchain](https://arunkc.hashnode.dev/a-brief-introduction-to-blockchain)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡&nbsp;Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4913](https://github.com/PrefectHQ/prefect/issues/4913) in [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)
-2. 🗣 Commented on [#1763](https://github.com/bridgecrewio/checkov/issues/1763) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-3. 🗣 Commented on [#1765](https://github.com/bridgecrewio/checkov/issues/1765) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-4. ❗️ Opened issue [#1765](https://github.com/bridgecrewio/checkov/issues/1765) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-5. 💪 Opened PR [#1763](https://github.com/bridgecrewio/checkov/pull/1763) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+1. 💪 Opened PR [#9](https://github.com/bytehash-tech/web3conHack/pull/9) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
+2. 💪 Opened PR [#8](https://github.com/bytehash-tech/web3conHack/pull/8) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
+3. 💪 Opened PR [#7](https://github.com/bytehash-tech/web3conHack/pull/7) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
+4. 💪 Opened PR [#6](https://github.com/bytehash-tech/web3conHack/pull/6) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
+5. 💪 Opened PR [#5](https://github.com/bytehash-tech/web3conHack/pull/5) in [bytehash-tech/web3conHack](https://github.com/bytehash-tech/web3conHack)
 <!--END_SECTION:activity-->
 
 ### 🤝🏻 &nbsp;Connect with Me
