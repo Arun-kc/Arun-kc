@@ -90,8 +90,16 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [Arun-kc/Arun-kc](https://github.com/Arun-kc/Arun-kc)
+2. ⬆️ Pushed 1 commit(s) to [Arun-kc/Arun-kc](https://github.com/Arun-kc/Arun-kc)
+3. ⬆️ Pushed 1 commit(s) to [Arun-kc/Arun-kc](https://github.com/Arun-kc/Arun-kc)
+4. ⬆️ Pushed 2 commit(s) to [Arun-kc/Arun-kc](https://github.com/Arun-kc/Arun-kc)
+5. ⬆️ Pushed 1 commit(s) to [Arun-kc/solidity_course](https://github.com/Arun-kc/solidity_course)
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Sunday, July 24th, 2022, 3:55:40 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
