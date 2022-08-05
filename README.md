@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Arun-kc/Arun-kc](https://github.com/Arun-kc/Arun-kc)
+1. 📔 Created new repository [Arun-kc/Whitelist-Dapp](https://github.com/Arun-kc/Whitelist-Dapp)
 2. ⬆️ Pushed 1 commit(s) to [Arun-kc/Arun-kc](https://github.com/Arun-kc/Arun-kc)
 3. ⬆️ Pushed 1 commit(s) to [Arun-kc/Arun-kc](https://github.com/Arun-kc/Arun-kc)
-4. ⬆️ Pushed 2 commit(s) to [Arun-kc/Arun-kc](https://github.com/Arun-kc/Arun-kc)
-5. ⬆️ Pushed 1 commit(s) to [Arun-kc/solidity_course](https://github.com/Arun-kc/solidity_course)
+4. ⬆️ Pushed 1 commit(s) to [Arun-kc/Arun-kc](https://github.com/Arun-kc/Arun-kc)
+5. ⬆️ Pushed 2 commit(s) to [Arun-kc/Arun-kc](https://github.com/Arun-kc/Arun-kc)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 5th, 2022, 3:14:02 PM
+Last Updated: Friday, August 5th, 2022, 3:42:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
