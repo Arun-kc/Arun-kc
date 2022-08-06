@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Arun-kc/Whitelist-Dapp](https://github.com/Arun-kc/Whitelist-Dapp)
+1. ⬆️ Pushed 1 commit(s) to [Arun-kc/Whitelist-Dapp](https://github.com/Arun-kc/Whitelist-Dapp)
 2. 📔 Created new repository [Arun-kc/Whitelist-Dapp](https://github.com/Arun-kc/Whitelist-Dapp)
 3. 📔 Created new repository [Arun-kc/Whitelist-Dapp](https://github.com/Arun-kc/Whitelist-Dapp)
-4. ⬆️ Pushed 1 commit(s) to [Arun-kc/Arun-kc](https://github.com/Arun-kc/Arun-kc)
+4. 📔 Created new repository [Arun-kc/Whitelist-Dapp](https://github.com/Arun-kc/Whitelist-Dapp)
 5. ⬆️ Pushed 1 commit(s) to [Arun-kc/Arun-kc](https://github.com/Arun-kc/Arun-kc)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 6th, 2022, 11:10:04 AM
+Last Updated: Saturday, August 6th, 2022, 11:37:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
