@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Arun-kc/NFT-Collection](https://github.com/Arun-kc/NFT-Collection)
-2. ⬆️ Pushed 1 commit(s) to [Arun-kc/youtube-data-analysis](https://github.com/Arun-kc/youtube-data-analysis)
-3. 📔 Created new repository [Arun-kc/youtube-data-analysis](https://github.com/Arun-kc/youtube-data-analysis)
-4. ⬆️ Pushed 1 commit(s) to [Arun-kc/Whitelist-Dapp](https://github.com/Arun-kc/Whitelist-Dapp)
-5. 📔 Created new repository [Arun-kc/Whitelist-Dapp](https://github.com/Arun-kc/Whitelist-Dapp)
+1. ⬆️ Pushed 1 commit(s) to [Arun-kc/NFT-Collection](https://github.com/Arun-kc/NFT-Collection)
+2. 📔 Created new repository [Arun-kc/NFT-Collection](https://github.com/Arun-kc/NFT-Collection)
+3. ⬆️ Pushed 1 commit(s) to [Arun-kc/youtube-data-analysis](https://github.com/Arun-kc/youtube-data-analysis)
+4. 📔 Created new repository [Arun-kc/youtube-data-analysis](https://github.com/Arun-kc/youtube-data-analysis)
+5. ⬆️ Pushed 1 commit(s) to [Arun-kc/Whitelist-Dapp](https://github.com/Arun-kc/Whitelist-Dapp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 15th, 2022, 12:27:25 PM
+Last Updated: Monday, August 15th, 2022, 1:15:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
