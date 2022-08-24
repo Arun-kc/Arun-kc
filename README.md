@@ -83,9 +83,9 @@ blah \
 
 ### 📕&nbsp;Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Localization 101: A Beginner&#39;s Guide to Localization](https://arunkc.hashnode.dev/software-localization-101-a-beginners-guide-to-localization)
 - [All You Need To Know About Crypto Wallets](https://arunkc.hashnode.dev/all-you-need-to-know-about-crypto-wallets)
 - [Where To Learn Web3 ? - A Complete Guide](https://arunkc.hashnode.dev/where-to-learn-web3-a-complete-guide)
-- [A Brief Introduction to Blockchain](https://arunkc.hashnode.dev/a-brief-introduction-to-blockchain)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡&nbsp;Recent Activity
