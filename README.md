@@ -92,11 +92,10 @@ blah \
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Arun-kc/NFT-Collection](https://github.com/Arun-kc/NFT-Collection)
 2. ⬆️ Pushed 1 commit(s) to [Arun-kc/NFT-Collection](https://github.com/Arun-kc/NFT-Collection)
-3. 📔 Created new repository [Arun-kc/NFT-Collection](https://github.com/Arun-kc/NFT-Collection)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 10th, 2022, 1:11:52 AM
+Last Updated: Thursday, November 10th, 2022, 3:13:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
