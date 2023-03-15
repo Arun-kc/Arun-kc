@@ -91,11 +91,10 @@ blah \
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [Arun-kc/gpt3-writer-starter](https://github.com/Arun-kc/gpt3-writer-starter) from [buildspace/gpt3-writer-starter](https://github.com/buildspace/gpt3-writer-starter)
-2. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 15th, 2023, 12:59:08 AM
+Last Updated: Wednesday, March 15th, 2023, 2:13:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
