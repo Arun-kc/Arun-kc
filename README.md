@@ -90,14 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Arun-kc/data-pipeline-assignment](https://github.com/Arun-kc/data-pipeline-assignment)
-2. ⬆️ Pushed 1 commit(s) to [Arun-kc/data-pipeline-assignment](https://github.com/Arun-kc/data-pipeline-assignment)
+1. 🔱 Forked [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability) from [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
+2. ⭐ Starred [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
 3. ⬆️ Pushed 1 commit(s) to [Arun-kc/data-pipeline-assignment](https://github.com/Arun-kc/data-pipeline-assignment)
-4. 📔 Created new repository [Arun-kc/data-pipeline-assignment](https://github.com/Arun-kc/data-pipeline-assignment)
+4. ⬆️ Pushed 1 commit(s) to [Arun-kc/data-pipeline-assignment](https://github.com/Arun-kc/data-pipeline-assignment)
+5. ⬆️ Pushed 1 commit(s) to [Arun-kc/data-pipeline-assignment](https://github.com/Arun-kc/data-pipeline-assignment)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 27th, 2023, 4:37:04 PM
+Last Updated: Thursday, July 27th, 2023, 5:09:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
