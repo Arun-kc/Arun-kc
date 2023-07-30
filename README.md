@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#444](https://github.com/elementary-data/dbt-data-reliability/pull/444) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
-2. 🔱 Forked [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability) from [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
-3. ⭐ Starred [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
-4. ⬆️ Pushed 1 commit(s) to [Arun-kc/data-pipeline-assignment](https://github.com/Arun-kc/data-pipeline-assignment)
+1. 🔱 Forked [Arun-kc/elementary](https://github.com/Arun-kc/elementary) from [elementary-data/elementary](https://github.com/elementary-data/elementary)
+2. 💪 Opened PR [#444](https://github.com/elementary-data/dbt-data-reliability/pull/444) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
+3. 🔱 Forked [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability) from [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
+4. ⭐ Starred [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
 5. ⬆️ Pushed 1 commit(s) to [Arun-kc/data-pipeline-assignment](https://github.com/Arun-kc/data-pipeline-assignment)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 30th, 2023, 6:11:14 PM
+Last Updated: Sunday, July 30th, 2023, 6:34:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
