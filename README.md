@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 35 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
-2. ⬆️ Pushed 58 commit(s) to [Arun-kc/elementary](https://github.com/Arun-kc/elementary)
-3. ⬆️ Pushed 14 commit(s) to [Arun-kc/elementary](https://github.com/Arun-kc/elementary)
-4. 💬 Commented on [#1039](https://github.com/elementary-data/elementary/issues/1039#issuecomment-1662569487) in [elementary-data/elementary](https://github.com/elementary-data/elementary)
-5. 💪 Opened PR [#1050](https://github.com/elementary-data/elementary/pull/1050) in [elementary-data/elementary](https://github.com/elementary-data/elementary)
+1. 🔱 Forked [Arun-kc/dbtgluenyctaxidemo](https://github.com/Arun-kc/dbtgluenyctaxidemo) from [aws-samples/dbtgluenyctaxidemo](https://github.com/aws-samples/dbtgluenyctaxidemo)
+2. ⬆️ Pushed 35 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+3. ⬆️ Pushed 58 commit(s) to [Arun-kc/elementary](https://github.com/Arun-kc/elementary)
+4. ⬆️ Pushed 14 commit(s) to [Arun-kc/elementary](https://github.com/Arun-kc/elementary)
+5. 💬 Commented on [#1039](https://github.com/elementary-data/elementary/issues/1039#issuecomment-1662569487) in [elementary-data/elementary](https://github.com/elementary-data/elementary)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 6th, 2023, 11:07:48 AM
+Last Updated: Sunday, August 6th, 2023, 11:34:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
