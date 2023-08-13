@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [unifyai/ivy](https://github.com/unifyai/ivy)
-2. 💪 Opened PR [#466](https://github.com/elementary-data/dbt-data-reliability/pull/466) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
-3. ⬆️ Pushed 54 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
-4. 🔱 Forked [Arun-kc/dbtgluenyctaxidemo](https://github.com/Arun-kc/dbtgluenyctaxidemo) from [aws-samples/dbtgluenyctaxidemo](https://github.com/aws-samples/dbtgluenyctaxidemo)
-5. ⬆️ Pushed 35 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+1. 🔱 Forked [Arun-kc/jaffle-shop-goes-online](https://github.com/Arun-kc/jaffle-shop-goes-online) from [elementary-data/jaffle-shop-goes-online](https://github.com/elementary-data/jaffle-shop-goes-online)
+2. ⭐ Starred [unifyai/ivy](https://github.com/unifyai/ivy)
+3. 💪 Opened PR [#466](https://github.com/elementary-data/dbt-data-reliability/pull/466) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
+4. ⬆️ Pushed 54 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+5. 🔱 Forked [Arun-kc/dbtgluenyctaxidemo](https://github.com/Arun-kc/dbtgluenyctaxidemo) from [aws-samples/dbtgluenyctaxidemo](https://github.com/aws-samples/dbtgluenyctaxidemo)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 13th, 2023, 6:11:29 AM
+Last Updated: Sunday, August 13th, 2023, 6:33:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
