@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Arun-kc/elementary-tutorial](https://github.com/Arun-kc/elementary-tutorial) from [elementary-data/elementary-tutorial](https://github.com/elementary-data/elementary-tutorial)
-2. ⬆️ Pushed 38 commit(s) to [Arun-kc/elementary](https://github.com/Arun-kc/elementary)
-3. 🔱 Forked [Arun-kc/openai-cookbook](https://github.com/Arun-kc/openai-cookbook) from [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
-4. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
-5. ⭐ Starred [monitaurxyz/minos-sdk-js](https://github.com/monitaurxyz/minos-sdk-js)
+1. ⬆️ Pushed 5 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+2. 🔱 Forked [Arun-kc/elementary-tutorial](https://github.com/Arun-kc/elementary-tutorial) from [elementary-data/elementary-tutorial](https://github.com/elementary-data/elementary-tutorial)
+3. ⬆️ Pushed 38 commit(s) to [Arun-kc/elementary](https://github.com/Arun-kc/elementary)
+4. 🔱 Forked [Arun-kc/openai-cookbook](https://github.com/Arun-kc/openai-cookbook) from [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+5. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 15th, 2023, 8:34:23 AM
+Last Updated: Tuesday, August 15th, 2023, 9:09:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
