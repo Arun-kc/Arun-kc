@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/Arun-kc/dbt-data-reliability/pull/1) in [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
-2. ⬆️ Pushed 7 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
-3. 💪 Opened PR [#1](https://github.com/Arun-kc/dbt-data-reliability/pull/1) in [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
-4. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
-5. ⬆️ Pushed 5 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+1. 💬 Commented on [#210](https://github.com/aws-samples/dbt-glue/issues/210#issuecomment-1679261549) in [aws-samples/dbt-glue](https://github.com/aws-samples/dbt-glue)
+2. 🎉 Merged PR [#1](https://github.com/Arun-kc/dbt-data-reliability/pull/1) in [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+3. ⬆️ Pushed 7 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+4. 💪 Opened PR [#1](https://github.com/Arun-kc/dbt-data-reliability/pull/1) in [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+5. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 15th, 2023, 5:08:40 PM
+Last Updated: Tuesday, August 15th, 2023, 5:33:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
