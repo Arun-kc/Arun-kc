@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
-2. ⬆️ Pushed 26 commit(s) to [Arun-kc/elementary](https://github.com/Arun-kc/elementary)
-3. ⬆️ Pushed 2 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
-4. ⬆️ Pushed 182 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
-5. ⬆️ Pushed 92 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+1. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+2. ⭐ Starred [monitaurxyz/minos-sdk-js](https://github.com/monitaurxyz/minos-sdk-js)
+3. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+4. ⬆️ Pushed 26 commit(s) to [Arun-kc/elementary](https://github.com/Arun-kc/elementary)
+5. ⬆️ Pushed 2 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 15th, 2023, 6:34:05 AM
+Last Updated: Tuesday, August 15th, 2023, 7:09:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
