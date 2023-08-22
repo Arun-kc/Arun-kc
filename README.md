@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#204](https://github.com/aws-samples/dbt-glue/pull/204#issuecomment-1686533190) in [aws-samples/dbt-glue](https://github.com/aws-samples/dbt-glue)
-2. ⭐ Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
-3. 💪 Opened PR [#495](https://github.com/elementary-data/dbt-data-reliability/pull/495) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
-4. ⬆️ Pushed 16 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
-5. ⬆️ Pushed 114 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+1. ⬆️ Pushed 10 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+2. ⬆️ Pushed 11 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+3. 💬 Commented on [#204](https://github.com/aws-samples/dbt-glue/pull/204#issuecomment-1686533190) in [aws-samples/dbt-glue](https://github.com/aws-samples/dbt-glue)
+4. ⭐ Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+5. 💪 Opened PR [#495](https://github.com/elementary-data/dbt-data-reliability/pull/495) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 22nd, 2023, 7:07:55 PM
+Last Updated: Tuesday, August 22nd, 2023, 7:33:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
