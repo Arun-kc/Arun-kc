@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#529](https://github.com/elementary-data/dbt-data-reliability/pull/529#discussion_r1318790846) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
-2. 💬 Commented on [#529](https://github.com/elementary-data/dbt-data-reliability/pull/529#discussion_r1318790719) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
-3. 💬 Commented on [#529](https://github.com/elementary-data/dbt-data-reliability/pull/529#discussion_r1318786335) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
-4. 💪 Opened PR [#529](https://github.com/elementary-data/dbt-data-reliability/pull/529) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
-5. ⬆️ Pushed 3 commit(s) to [Arun-kc/dbt-data-reliability](https://github.com/Arun-kc/dbt-data-reliability)
+1. 💬 Commented on [#529](https://github.com/elementary-data/dbt-data-reliability/pull/529#discussion_r1318792439) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
+2. 💬 Commented on [#529](https://github.com/elementary-data/dbt-data-reliability/pull/529#discussion_r1318790846) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
+3. 💬 Commented on [#529](https://github.com/elementary-data/dbt-data-reliability/pull/529#discussion_r1318790719) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
+4. 💬 Commented on [#529](https://github.com/elementary-data/dbt-data-reliability/pull/529#discussion_r1318786335) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
+5. 💪 Opened PR [#529](https://github.com/elementary-data/dbt-data-reliability/pull/529) in [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 7th, 2023, 4:13:09 PM
+Last Updated: Thursday, September 7th, 2023, 4:36:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
