@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Arun-kc/Assignment](https://github.com/Arun-kc/Assignment)
+1. ⭐ Starred [instill-ai/vdp](https://github.com/instill-ai/vdp)
 2. ⬆️ Pushed 1 commit(s) to [Arun-kc/Assignment](https://github.com/Arun-kc/Assignment)
 3. ⬆️ Pushed 1 commit(s) to [Arun-kc/Assignment](https://github.com/Arun-kc/Assignment)
-4. 📔 Created new repository [Arun-kc/Assignment](https://github.com/Arun-kc/Assignment)
-5. ⭐ Starred [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb)
+4. ⬆️ Pushed 1 commit(s) to [Arun-kc/Assignment](https://github.com/Arun-kc/Assignment)
+5. 📔 Created new repository [Arun-kc/Assignment](https://github.com/Arun-kc/Assignment)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 3rd, 2023, 3:34:21 AM
+Last Updated: Sunday, December 3rd, 2023, 4:12:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
