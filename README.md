@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
-2. ⭐ Starred [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
-3. ⭐ Starred [instill-ai/vdp](https://github.com/instill-ai/vdp)
-4. ⬆️ Pushed 1 commit(s) to [Arun-kc/Assignment](https://github.com/Arun-kc/Assignment)
+1. ⭐ Starred [apache/hudi](https://github.com/apache/hudi)
+2. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
+3. ⭐ Starred [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+4. ⭐ Starred [instill-ai/vdp](https://github.com/instill-ai/vdp)
 5. ⬆️ Pushed 1 commit(s) to [Arun-kc/Assignment](https://github.com/Arun-kc/Assignment)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 16th, 2024, 5:35:10 PM
+Last Updated: Tuesday, January 16th, 2024, 6:13:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
