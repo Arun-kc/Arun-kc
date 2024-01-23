@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apache/hudi](https://github.com/apache/hudi)
-2. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
-3. ⭐ Starred [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
-4. ⭐ Starred [instill-ai/vdp](https://github.com/instill-ai/vdp)
-5. ⬆️ Pushed 1 commit(s) to [Arun-kc/Assignment](https://github.com/Arun-kc/Assignment)
+1. ⭐ Starred [dataflint/spark](https://github.com/dataflint/spark)
+2. ⭐ Starred [apache/hudi](https://github.com/apache/hudi)
+3. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
+4. ⭐ Starred [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+5. ⭐ Starred [instill-ai/vdp](https://github.com/instill-ai/vdp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 23rd, 2024, 12:20:24 PM
+Last Updated: Tuesday, January 23rd, 2024, 12:50:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
