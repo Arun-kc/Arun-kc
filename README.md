@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue) from [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
-2. ⭐ Starred [dlt-hub/dlt](https://github.com/dlt-hub/dlt)
-3. ⭐ Starred [aws-samples/dbt-glue](https://github.com/aws-samples/dbt-glue)
-4. ⭐ Starred [dataflint/spark](https://github.com/dataflint/spark)
-5. ⭐ Starred [apache/hudi](https://github.com/apache/hudi)
+1. 💪 Opened PR [#6](https://github.com/pyor-xyz/dbt-glue/pull/6) in [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
+2. 🔱 Forked [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue) from [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
+3. ⭐ Starred [dlt-hub/dlt](https://github.com/dlt-hub/dlt)
+4. ⭐ Starred [aws-samples/dbt-glue](https://github.com/aws-samples/dbt-glue)
+5. ⭐ Starred [dataflint/spark](https://github.com/dataflint/spark)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 12th, 2024, 11:08:42 AM
+Last Updated: Monday, February 12th, 2024, 11:35:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
