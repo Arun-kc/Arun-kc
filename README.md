@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6](https://github.com/pyor-xyz/dbt-glue/pull/6) in [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
-2. 🔱 Forked [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue) from [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
-3. ⭐ Starred [dlt-hub/dlt](https://github.com/dlt-hub/dlt)
-4. ⭐ Starred [aws-samples/dbt-glue](https://github.com/aws-samples/dbt-glue)
-5. ⭐ Starred [dataflint/spark](https://github.com/dataflint/spark)
+1. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
+2. 💪 Opened PR [#6](https://github.com/pyor-xyz/dbt-glue/pull/6) in [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
+3. 🔱 Forked [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue) from [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
+4. ⭐ Starred [dlt-hub/dlt](https://github.com/dlt-hub/dlt)
+5. ⭐ Starred [aws-samples/dbt-glue](https://github.com/aws-samples/dbt-glue)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 13th, 2024, 6:15:17 AM
+Last Updated: Tuesday, February 13th, 2024, 6:34:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
