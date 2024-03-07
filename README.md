@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
+1. 💪 Opened PR [#7](https://github.com/pyor-xyz/dbt-glue/pull/7) in [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
 2. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
-3. 💪 Opened PR [#6](https://github.com/pyor-xyz/dbt-glue/pull/6) in [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
-4. 🔱 Forked [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue) from [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
-5. ⭐ Starred [dlt-hub/dlt](https://github.com/dlt-hub/dlt)
+3. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
+4. 💪 Opened PR [#6](https://github.com/pyor-xyz/dbt-glue/pull/6) in [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
+5. 🔱 Forked [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue) from [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 7th, 2024, 9:08:45 AM
+Last Updated: Thursday, March 7th, 2024, 9:34:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
