@@ -94,11 +94,10 @@ blah \
 2. 💪 Opened PR [#7](https://github.com/pyor-xyz/dbt-glue/pull/7) in [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
 3. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
 4. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
-5. 💪 Opened PR [#6](https://github.com/pyor-xyz/dbt-glue/pull/6) in [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 13th, 2024, 2:26:50 AM
+Last Updated: Monday, May 13th, 2024, 2:42:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
