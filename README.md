@@ -90,10 +90,11 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 4 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 19th, 2024, 8:14:53 AM
+Last Updated: Friday, July 19th, 2024, 8:36:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
