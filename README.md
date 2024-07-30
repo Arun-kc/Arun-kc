@@ -91,12 +91,14 @@ blah \
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
-2. 💪 Opened PR [#8](https://github.com/pyor-xyz/dbt-glue/pull/8) in [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
-3. ⬆️ Pushed 4 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
+2. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
+3. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
+4. 💪 Opened PR [#8](https://github.com/pyor-xyz/dbt-glue/pull/8) in [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
+5. ⬆️ Pushed 4 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 30th, 2024, 3:37:05 AM
+Last Updated: Tuesday, July 30th, 2024, 4:14:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
