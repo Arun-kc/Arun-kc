@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apache/incubator-xtable](https://github.com/apache/incubator-xtable)
-2. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
+1. ⭐ Starred [Apna-HQ/sdk](https://github.com/Apna-HQ/sdk)
+2. ⭐ Starred [apache/incubator-xtable](https://github.com/apache/incubator-xtable)
 3. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
 4. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
-5. 💪 Opened PR [#8](https://github.com/pyor-xyz/dbt-glue/pull/8) in [pyor-xyz/dbt-glue](https://github.com/pyor-xyz/dbt-glue)
+5. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 1st, 2024, 5:34:27 PM
+Last Updated: Sunday, September 1st, 2024, 6:15:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
