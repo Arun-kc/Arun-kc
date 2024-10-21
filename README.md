@@ -90,15 +90,15 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fedixyz/fedi](https://github.com/fedixyz/fedi)
-2. ⭐ Starred [Apna-HQ/sdk](https://github.com/Apna-HQ/sdk)
-3. ⭐ Starred [apache/incubator-xtable](https://github.com/apache/incubator-xtable)
-4. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
+1. ⭐ Starred [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
+2. ⭐ Starred [fedixyz/fedi](https://github.com/fedixyz/fedi)
+3. ⭐ Starred [Apna-HQ/sdk](https://github.com/Apna-HQ/sdk)
+4. ⭐ Starred [apache/incubator-xtable](https://github.com/apache/incubator-xtable)
 5. ⬆️ Pushed 1 commit(s) to [Arun-kc/dbt-glue](https://github.com/Arun-kc/dbt-glue)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 21st, 2024, 1:05:36 AM
+Last Updated: Monday, October 21st, 2024, 2:38:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
