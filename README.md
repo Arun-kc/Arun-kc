@@ -93,11 +93,10 @@ blah \
 1. ⭐ Starred [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
 2. ⭐ Starred [fedixyz/fedi](https://github.com/fedixyz/fedi)
 3. ⭐ Starred [Apna-HQ/sdk](https://github.com/Apna-HQ/sdk)
-4. ⭐ Starred [apache/incubator-xtable](https://github.com/apache/incubator-xtable)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 25th, 2024, 2:44:28 AM
+Last Updated: Monday, November 25th, 2024, 3:28:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
