@@ -92,11 +92,10 @@ blah \
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
 2. ⭐ Starred [fedixyz/fedi](https://github.com/fedixyz/fedi)
-3. ⭐ Starred [Apna-HQ/sdk](https://github.com/Apna-HQ/sdk)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 2nd, 2024, 4:42:38 AM
+Last Updated: Monday, December 2nd, 2024, 5:14:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
