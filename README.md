@@ -90,10 +90,12 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
+2. ⭐ Starred [fedixyz/fedi](https://github.com/fedixyz/fedi)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 4th, 2024, 3:15:14 PM
+Last Updated: Wednesday, December 4th, 2024, 3:38:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
