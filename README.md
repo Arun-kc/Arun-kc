@@ -90,11 +90,10 @@ blah \
 
 ### ⚡&nbsp;Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 21st, 2025, 3:36:52 AM
+Last Updated: Tuesday, January 21st, 2025, 4:15:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ### 🤝🏻 &nbsp;Connect with Me
 
